@@ -1,7 +1,8 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/i0mSHOez)
-[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=21916633)
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=21879253)
 # SESION DE LABORATORIO N° 01: GESTION AUTOMATIZADA DE PRUEBAS CON GITHUB
 
+## Nombre Augusto Joaquin Rivera Muñoz
 ## OBJETIVOS
   * Desarrollar la automatización de la gestión de pruebas de una aplicación utilizando Github Actions.
 
@@ -136,3 +137,36 @@ jobs:
 
 ![image](https://github.com/UPT-FAING-EPIS/lab_ci_pruebas_01/assets/10199939/33266cc0-98e6-4585-a863-8cefd2748dab)
 
+---
+
+## RESULTADOS DEL DESARROLLO
+
+### Capturas de Pantalla del Proceso
+
+#### 1. Configuración de Seguridad en SonarCloud
+![Página de Security en SonarCloud](img/01-sonarcloud-security-page.jpeg)
+*Página de Security en SonarCloud mostrando tokens de seguridad*
+
+#### 2. Análisis de Proyectos en SonarCloud
+![Página para analizar proyectos](img/02-sonarcloud-analyze-projects.jpeg)
+*Página para analizar proyectos en SonarCloud mostrando campos de configuración*
+
+#### 3. Proyecto Configurado para Análisis
+![Página de Analyze projects completada](img/03-sonarcloud-analyze-projects-filled.jpeg)
+*Página de Analyze projects con campos completados y proyecto listo para crear*
+
+#### 4. Configuración de Nuevo Código
+![Setup de nuevo código](img/04-sonarcloud-setup-new-code.jpeg)
+*Página de configuración de nuevo código para el proyecto en SonarCloud*
+
+#### 5. Método de Análisis
+![Selección de método de análisis](img/05-sonarcloud-choose-analysis-method.jpeg)
+*Página para elegir el método de análisis en SonarCloud con opciones de CI y manual*
+
+#### 6. GitHub Pages - Build and Deployment
+![GitHub Pages configuración](img/06-github-pages-build-deployment.jpeg)
+*Página de GitHub Pages mostrando configuración de Build and deployment*
+
+#### 7. Living Documentation - Resultados de Pruebas
+![Living Documentation](img/07-living-documentation-test-results.jpeg)
+*Página de Living Documentation mostrando resultados de pruebas de Bank.Domain.Tests*
